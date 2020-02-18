@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Maps Android API Example</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBc2I7OdW4_fa_Dn4n_hH5UHBDmaQEHJJ4</string>
+</resources>
